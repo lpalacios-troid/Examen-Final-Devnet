@@ -9,3 +9,5 @@ elif 1006 <= vlan <= 4094:
     print(f"La VLAN {vlan} corresponde a un rango extendido.")
 else:
     print(f"La VLAN {vlan} no corresponde a una VLAN válida.")
+
+
